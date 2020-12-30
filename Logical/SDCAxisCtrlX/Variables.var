@@ -1,0 +1,7 @@
+VAR
+	axis_X : FB_Axis := (0);
+	coil_powered : BOOL := FALSE;
+	coil_pwm_value : INT := 0;
+	pwm_period : UINT := 0;
+	motor_X : FB_Motor := (0);
+END_VAR

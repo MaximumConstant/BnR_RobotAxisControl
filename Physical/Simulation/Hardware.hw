@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.2.4.20?>
+<Hardware xmlns="http://br-automation.co.at/AS/Hardware">
+  <Module Name="PC_any" Type="PC_any" Version="1.1.0.0" OrderNumber="PC" />
+</Hardware>

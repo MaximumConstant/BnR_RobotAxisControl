@@ -1,0 +1,7 @@
+VAR
+	Axis_X : ACP10AXIS_typ := (0);
+	Axis_X_HW : SdcHwCfg_typ := (0);
+	Axis_X_DrvIf : SdcDrvIf16_typ := (0);
+	Axis_X_DiDoIf : SdcDiDoIf_typ := (0);
+	Axis_X_Encif : SdcEncIf16_typ := (0);
+END_VAR

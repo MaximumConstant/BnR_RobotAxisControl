@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.5.2.102?>
+<AcoposParameterTable>
+  <Root Name="Parameters">
+    <Parameter Name="SCALE_ENCOD_INCR" ID="109" Value="24" Description="Encoder1: Encoder scaling: increments per encoder revolution" />
+    <Parameter Name="SERVO_V_MAX_OUTPUT" ID="64201" Value="6500" />
+  </Root>
+</AcoposParameterTable>

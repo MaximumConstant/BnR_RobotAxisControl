@@ -1,0 +1,14 @@
+VAR_CONFIG
+	        Cyclic#1.gAxis01_DrvIf.iLifeCnt AT %IB."8I64xxxxxxx.00x-1".SDC_LifeCnt;
+	        Cyclic#1.gAxis01_DrvIf.iDrvOK AT %IX."8I64xxxxxxx.00x-1".ETAD_Input_Bool_02;
+	        Cyclic#1.gAxis01_DrvIf.oSetTime AT %QW."8I64xxxxxxx.00x-1".SDC_SetTime;
+	        Cyclic#1.gAxis01_DrvIf.oSetPos AT %QW."8I64xxxxxxx.00x-1".LFRD_Output;
+	        Cyclic#1.gAxis01_DiDoIf.iLifeCntDriveReady AT %IB."8I64xxxxxxx.00x-1".SDC_LifeCnt;
+	        Cyclic#1.gAxis01_DiDoIf.iLifeCntDriveEnable AT %IB."8I64xxxxxxx.00x-1".SDC_LifeCnt;
+	        Cyclic#1.gAxis01_DiDoIf.oDriveEnable AT %QX."8I64xxxxxxx.00x-1".CMDD_Output_Bool_00;
+	        Cyclic#1.gAxis01_ModuleOk AT %QX."8I64xxxxxxx.00x-1".CMDD_Output_Bool_01;
+	        Cyclic#1.gAxis01_ModuleOk AT %QX."8I64xxxxxxx.00x-1".CMDD_Output_Bool_02;
+	        Cyclic#1.gAxis01_ModuleOk AT %IX."8I64xxxxxxx.00x-1".ModuleOk;
+	        Cyclic#1.gAxis01_DiDoIf.oDriveEnable AT %QX."8I64xxxxxxx.00x-1".CMDD_Output_Bool_03;
+	        Cyclic#1.gAxis01_DiDoIf.iDriveReady AT %IX."8I64xxxxxxx.00x-1".ETAD_Input_Bool_02;
+END_VAR
